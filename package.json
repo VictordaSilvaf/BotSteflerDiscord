@@ -1,0 +1,26 @@
+{
+  "name": "stiffler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "author": "Victor da Silva Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.6",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-opus": "^0.3.3",
+    "nodemon": "^2.0.4",
+    "opusscript": "0.0.7",
+    "yt-search": "^2.1.8",
+    "ytdl-core": "^3.2.0",
+    "ytdl-core-discord": "^1.2.1",
+    "ytsr": "^0.1.20"
+  }
+}
