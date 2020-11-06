@@ -1,5 +1,4 @@
 # BotSteflerDiscord
-Bot Discord Stefler
 
 Bot criado para fins de estudos e diversão.
 
